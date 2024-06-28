@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - function finds and prints the largest prime factor of the number 612852475143
- * 
- * Return: 0 all the time
+ *main - func finds prints the largest prime factor of the number 612852475143
+ *
+ *Return: 0 all the time
  */
 
 int main(void)
