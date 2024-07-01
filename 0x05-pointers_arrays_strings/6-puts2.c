@@ -19,7 +19,6 @@ void puts2(char *str)
 		y++;
 		longi++;
 	}
-
 	t = longi - 1;
 	for (o = 0; o <= t; o++)
 	{
@@ -28,4 +27,5 @@ void puts2(char *str)
 		_puchar(str[o]);
 	}
 	}
+	_putchar('\n');
 }
